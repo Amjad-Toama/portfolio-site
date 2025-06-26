@@ -84,8 +84,7 @@ Workflow file: `.github/workflows/firebase-hosting.yml`
 
 ## 🔗 Live Demo
 
-👉 [https://amjadtoama.com](https://porfolio-project-85732.web.app/)  
-*(Replace with your actual Firebase Hosting URL)*
+👉 [https://www.amjadtoama.com](https://porfolio-project-85732.web.app/)  
 
 ---
 
