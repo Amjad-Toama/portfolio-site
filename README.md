@@ -33,7 +33,7 @@ Deployed using **Firebase Hosting** with GitHub Actions for automated builds and
 Clone and run the project locally:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Amjad-Toama/portfolio-site
 cd your-repo
 
 # Install dependencies
